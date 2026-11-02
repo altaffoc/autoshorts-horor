@@ -1,0 +1,7 @@
+output/
+__pycache__/
+*.pyc
+.env
+assets/font/*.ttf
+assets/music/*.wav
+assets/music/*.mp3
